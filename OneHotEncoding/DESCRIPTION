@@ -1,0 +1,9 @@
+Package: OneHotEncoding
+Type: Package
+Title: What the Package Does (Title Case)
+Version: 0.1.0
+Authors@R: person("Mithra", "Chintha", email = "chintha.mithra@gmail.com", role = c("aut", "cre"))
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
+LazyData: TRUE
+RoxygenNote: 5.0.1
